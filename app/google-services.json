@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "411175806919",
+    "firebase_url": "https://pushnotification-a7fc6.firebaseio.com",
+    "project_id": "pushnotification-a7fc6",
+    "storage_bucket": "pushnotification-a7fc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411175806919:android:ad01129c7790de1f",
+        "android_client_info": {
+          "package_name": "ponno.employee.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411175806919-fd2f09p9apan5fb957rhiqhh0q7qacrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ponno.employee.pushnotification",
+            "certificate_hash": "965594af46c90422950fcabba9a12e970832e186"
+          }
+        },
+        {
+          "client_id": "411175806919-9abjmhn4frvm027odn7b5vt01rnmtevb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0BIDbKlExcEMqdVyGlPCfjp83_K83Mk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411175806919-9abjmhn4frvm027odn7b5vt01rnmtevb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
